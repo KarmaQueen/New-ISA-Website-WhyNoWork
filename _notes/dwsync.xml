@@ -4,4 +4,7 @@
 <file name="index.html" server="ihome.ust.hk/beta/" local="131063294927319877" remote="131063008200000000" Dst="0" />
 <file name=".gitattributes" server="ihome.ust.hk/beta/" local="131061131568498623" remote="131063005800000000" Dst="0" />
 <file name=".gitignore" server="ihome.ust.hk/beta/" local="131063296335132069" remote="131063008200000000" Dst="0" />
+<file name=".gitattributes" server="webhost5.ust.hk/public_html/" local="131061131568498623" remote="131074162170000000" Dst="0" />
+<file name=".gitignore" server="webhost5.ust.hk/public_html/" local="131063298128156674" remote="131074162170000000" Dst="0" />
+<file name="index.html" server="webhost5.ust.hk/public_html/" local="131108657817987471" remote="131115740740000000" Dst="0" />
 </dwsync>

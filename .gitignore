@@ -48,3 +48,7 @@ Temporary Items
 
 dwsync.xml
 *.xml
+*.xml
+font-awesome/fonts/_notes/dwsync.xml
+*.xml
+flags/4x3/_notes/dwsync.xml
